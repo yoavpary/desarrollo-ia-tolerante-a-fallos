@@ -1,0 +1,10 @@
+2026-08-30 17:14:28.012 | ERROR    | __main__:procesar_entrada_modelo:29 - Error de conversión en las entradas 'texto_invalido', '10': could not convert string to float: 'texto_invalido'
+2026-08-30 17:14:28.065 | CRITICAL | __main__:procesar_entrada_modelo:36 - Error matemático crítico: division by zero
+2026-08-30 17:18:44.608 | ERROR    | __main__:procesar_entrada_modelo:29 - Error de conversión en las entradas 'texto_invalido', '10': could not convert string to float: 'texto_invalido'
+2026-08-30 17:18:44.661 | CRITICAL | __main__:procesar_entrada_modelo:36 - Error matemático crítico: division by zero
+2026-08-30 17:18:54.659 | ERROR    | __main__:procesar_entrada_modelo:29 - Error de conversión en las entradas 'texto_invalido', '10': could not convert string to float: 'texto_invalido'
+2026-08-30 17:18:54.717 | CRITICAL | __main__:procesar_entrada_modelo:36 - Error matemático crítico: division by zero
+2026-08-30 17:31:50.723 | ERROR    | __main__:procesar_entrada_modelo:29 - Error de conversión en las entradas 'texto_invalido', '10': could not convert string to float: 'texto_invalido'
+2026-08-30 17:31:50.777 | CRITICAL | __main__:procesar_entrada_modelo:36 - Error matemático crítico: division by zero
+2026-08-30 17:54:32.532 | ERROR    | __main__:procesar_entrada_modelo:29 - Error de conversión en las entradas 'texto_invalido', '10': could not convert string to float: 'texto_invalido'
+2026-08-30 17:54:32.588 | CRITICAL | __main__:procesar_entrada_modelo:36 - Error matemático crítico: division by zero
