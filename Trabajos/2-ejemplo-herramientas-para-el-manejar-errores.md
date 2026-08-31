@@ -1,9 +1,5 @@
 # Reporte Práctico: Implementación y Análisis de Resiliencia con Sentry y Loguru
 
-**Materia:** Sistemas Tolerantes a Fallos  
-**Alumno:** Yoav Alejandro Partida Gómez  
-**Parcial:** 1  
-
 ---
 
 ## 1. Código Fuente del Experimento
