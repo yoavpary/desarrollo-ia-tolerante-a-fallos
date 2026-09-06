@@ -1,0 +1,15 @@
+{
+  "total_desperdiciado": 12125.0,
+  "compras_previas": [
+    {
+      "producto": "Consola Xbox",
+      "precio": 12000,
+      "justificacion": "Por la salida de GTA6 y porque soy fan"
+    },
+    {
+      "producto": "Taza de Star Wars",
+      "precio": 125,
+      "justificacion": "para adornar mi escritorio "
+    }
+  ]
+}
