@@ -1,5 +1,5 @@
 {
-  "total_desperdiciado": 12125.0,
+  "total_desperdiciado": 42125.0,
   "compras_previas": [
     {
       "producto": "Consola Xbox",
@@ -10,6 +10,16 @@
       "producto": "Taza de Star Wars",
       "precio": 125,
       "justificacion": "para adornar mi escritorio "
+    },
+    {
+      "producto": "celular gamer ",
+      "precio": 15000,
+      "justificacion": "para ser youtuber"
+    },
+    {
+      "producto": "nintendo wii",
+      "precio": 15000,
+      "justificacion": "para ser youtuber"
     }
   ]
 }
