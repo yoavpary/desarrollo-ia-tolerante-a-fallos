@@ -1,25 +1,15 @@
 {
-  "total_desperdiciado": 42125.0,
+  "total_desperdiciado": 3400.0,
   "compras_previas": [
     {
-      "producto": "Consola Xbox",
-      "precio": 12000,
-      "justificacion": "Por la salida de GTA6 y porque soy fan"
+      "producto": "Lego",
+      "precio": 1700.0,
+      "justificacion": "decoracion"
     },
     {
-      "producto": "Taza de Star Wars",
-      "precio": 125,
-      "justificacion": "para adornar mi escritorio "
-    },
-    {
-      "producto": "celular gamer ",
-      "precio": 15000,
-      "justificacion": "para ser youtuber"
-    },
-    {
-      "producto": "nintendo wii",
-      "precio": 15000,
-      "justificacion": "para ser youtuber"
+      "producto": "Lego",
+      "precio": 1700.0,
+      "justificacion": "decoracion"
     }
   ]
 }
